@@ -1,2 +1,3 @@
-GeneisV9
-========
+Gneis
+=====
+KOTS Website V9, Codename 'Gneis'
